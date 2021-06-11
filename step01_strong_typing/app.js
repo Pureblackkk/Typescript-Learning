@@ -1,0 +1,9 @@
+var a = "lalala";
+a = "ppp";
+var b = 9;
+var c = true;
+var e = 'lalala';
+var f = 10.9;
+var g = true;
+g = 20;
+//# sourceMappingURL=app.js.map
